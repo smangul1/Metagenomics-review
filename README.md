@@ -29,4 +29,4 @@
 Binning reads is hard due to homology problem. 
 
 ### Taxonomic binning 
-- place the conting on the lowest node in the taxonomic tree. 
+- place the conting on the lowest possible node in the taxonomic tree. 
