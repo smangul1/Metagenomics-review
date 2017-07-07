@@ -22,3 +22,8 @@
 ## Biology want to know
 - binning define a reference and do it across all sample. After the bins are defined you go back on the per smaple level and track the relative abundances of the bins across the samples. 
 
+- partical asssemble - assemble partical path in the assemble (de Bruin graph)
+
+
+### Binning - contis or reads
+Binning reads is hard due to homology problem. 
