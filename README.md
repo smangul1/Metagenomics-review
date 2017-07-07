@@ -17,3 +17,5 @@
 - Assembly - is NP hard (cite) due to horizontal gene transfer. Make a minimum example which is not solvabable. 
 - Read binning, eaither on assembled contihgs or on the read. Each  bin ideally should correponds to strans/genome. Like clustering 
 
+- Better than mapping, it can detect binds corresponding to novel organims.  
+- 
