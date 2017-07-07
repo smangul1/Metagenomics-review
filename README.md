@@ -8,6 +8,12 @@
 
 - Chimera - sequencing artifacts 
 
-![title](https://github.com/smangul1/Metagenomics-review/blob/master/figures/Chimera.jpg)
+[picture here]
 
+
+- Marker gene analysis methods - to solve taxonomic profile problem. 
+- Taxonomic profile - taxa present in the data. Taxa is the node in the tree. 
+- Taxonomic profiling - infer Taxonomic profile from reads
+- Assembly - is NP hard (cite) due to horizontal gene transfer. Make a minimum example which is not solvabable. 
+- Read binning, eaither on assembled contihgs or on the read. Each  bin ideally should correponds to strans/genome. Like clustering 
 
