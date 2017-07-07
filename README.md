@@ -8,6 +8,6 @@
 
 - Chimera - sequencing artifacts 
 
-![title](url)
+![title](https://github.com/smangul1/Metagenomics-review/blob/master/figures/Chimera.jpg)
 
 
