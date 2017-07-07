@@ -1,5 +1,9 @@
 # Metagenomics-review
 
+## Advantages of metagenomcs comparing to 16S
+- full genomes
+- other kindoms like viruses, fungi, other eucaryotes 
+
 ## Terms 
 
 - Taxonomy - a biological naming system, where each item is a taxomonc unit.  a tr representing a naming system we use to clasify microbal organisms. 
