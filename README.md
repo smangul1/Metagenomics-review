@@ -8,6 +8,6 @@
 
 - Chimera - sequencing artifacts 
 
-put picture here
+![title](url)
 
 
