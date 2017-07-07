@@ -27,3 +27,5 @@
 
 ### Binning - contis or reads
 Binning reads is hard due to homology problem. 
+
+### Taxonomic binning 
