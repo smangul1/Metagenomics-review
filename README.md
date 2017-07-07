@@ -18,4 +18,7 @@
 - Read binning, eaither on assembled contihgs or on the read. Each  bin ideally should correponds to strans/genome. Like clustering 
 
 - Better than mapping, it can detect binds corresponding to novel organims.  
-- 
+
+## Biology want to know
+- binning define a reference and do it across all sample. After the bins are defined you go back on the per smaple level and track the relative abundances of the bins across the samples. 
+
