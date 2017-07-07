@@ -6,3 +6,6 @@
 
 - We will not be taking about 16S, which is not metgemonics 
 
+- Chimera - sequencing artifacts 
+
+put picture here
