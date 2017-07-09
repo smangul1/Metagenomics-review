@@ -34,3 +34,10 @@ Binning reads is hard due to homology problem.
 
 ### Taxonomic binning 
 - place the conting on the lowest possible node in the taxonomic tree. 
+
+# Assembly 
+results of assembly 
+- contins 
+- of full genomes
+
+After assembly is done one can try to connect contigs based on overlap of sufix and prefix. Ths results to obtaing either supercontgs or full genomes
